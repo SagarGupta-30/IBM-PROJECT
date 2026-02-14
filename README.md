@@ -84,5 +84,5 @@ The goal of Nivio is to demonstrate frontend development skills by building a fu
 ---
 
 <p align="center">
-  Made with ❤️ by Team Web Crafters
+   ❤️ @ SAGAR GUPTA
 </p>
